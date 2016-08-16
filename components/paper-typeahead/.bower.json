@@ -22,7 +22,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v0.2.1",
-    "commit": "03589fd2a86be38f32de1fa600094271ee6fc99c"
+    "commit": "8f4673e32ef073ab953a65356c71182ad325f654"
   },
   "_source": "git://github.com/nuxeo/paper-typeahead.git",
   "_target": "0.2.1",
