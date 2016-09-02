@@ -37,6 +37,6 @@
     "commit": "dfdde2b02947fb2dfd3f2d303ec17f7f4919348c"
   },
   "_source": "git://github.com/PolymerElements/paper-progress.git",
-  "_target": "^1.0.0",
+  "_target": "^1.0.4",
   "_originalSource": "PolymerElements/paper-progress"
 }
