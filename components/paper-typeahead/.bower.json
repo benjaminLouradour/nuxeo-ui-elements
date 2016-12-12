@@ -24,7 +24,7 @@
     "tag": "v0.2.1",
     "commit": "8f4673e32ef073ab953a65356c71182ad325f654"
   },
-  "_source": "git://github.com/nuxeo/paper-typeahead.git",
+  "_source": "https://github.com/nuxeo/paper-typeahead.git",
   "_target": "0.2.1",
   "_originalSource": "nuxeo/paper-typeahead"
 }

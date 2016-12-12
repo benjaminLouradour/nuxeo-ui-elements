@@ -36,7 +36,7 @@
     "tag": "v0.4.0",
     "commit": "3b0fd11fa07104dcbb99a614d6b4dc0e02ba3031"
   },
-  "_source": "git://github.com/nuxeo/nuxeo-elements.git",
+  "_source": "https://github.com/nuxeo/nuxeo-elements.git",
   "_target": "0.4.0",
   "_originalSource": "nuxeo/nuxeo-elements"
 }
